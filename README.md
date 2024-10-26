@@ -25,7 +25,7 @@ This project enhances strategic workforce planning (SWP) by utilizing AI for res
 ### Installation Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/SShetty2003/AIES_Project.git
    cd your-repo
 2. **Install Dependencies**:
    pip install PyPDF2 pdfplumber nltk spacy scikit-learn
